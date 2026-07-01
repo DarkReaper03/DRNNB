@@ -1,0 +1,13 @@
+{
+  "name": "discord-nickname-lock-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that sets and locks member nicknames so they can't be changed",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
