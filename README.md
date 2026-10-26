@@ -37,7 +37,7 @@ Only members with the **Administrator** permission can see or run these commands
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/DRNNB.git
+git clone https://github.com/DarkReaper03/DRNNB.git
 cd DRNNB
 npm install
 ```
